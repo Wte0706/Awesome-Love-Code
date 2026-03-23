@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道妳願意陪我', function() {
+        modal('我愛妳我的小公主', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -22,15 +22,15 @@ function B() {
 }
 
 function C() {
-    modal('妳的過去', D);
+    modal('我不會在意妳的情緒', D);
 }
 
 function D() {
-    modal('我不會在意', E);
+    modal('我想要妳有話直說就好', E);
 }
 
 function E() {
-    modal('我只是不想再到妳難過', F);
+    modal('有我在妳不用藏著情緒了', F);
 }
 
 function F() {
